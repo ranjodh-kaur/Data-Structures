@@ -1,3 +1,6 @@
+![Data Structures Unit 2 Notes](https://github.com/ranjodh-kaur/Draw/blob/main/ChatGPT%20Image%20Sep%2025,%202026,%2011_37_38%20AM.png?raw=true)
+
+
 # Unit 3- Stack
  Array implementation of stack, push and pop operations on stack, applications of stack:- managing function calls, recursion (recursive algorithms for factorial calculation, Tower of Hanoi, etc.), conversion of infix to postfix expression and its evaluation using stack data structure, balanced parenthesis checking, implementing backtracking algorithms, handling undo/redo operations, back and forward buttons in a web browser, Matching HTML tags in web development.
 
